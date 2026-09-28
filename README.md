@@ -13,12 +13,9 @@ Procedure
 7.	Click on the Run option → open the Simulation Window → place the probe to obtain the output graph. 
 Circuit Diagram
 
-
-
-
-
 The circuit is designed in LTspice as shown in the record.
 Observation / Output
+<img width="1600" height="682" alt="WhatsApp Image 2026-09-08 at 6 26 19 PM" src="https://github.com/user-attachments/assets/712af45f-2824-47d6-a9d9-8894a13984ff" />
 
 
 
